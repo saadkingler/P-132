@@ -1,0 +1,17 @@
+.link
+{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.header
+{
+    margin-left: 40px;
+}
